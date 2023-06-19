@@ -1,7 +1,7 @@
 <h1 align="center">Food2Go</h1>
 <p align="center"><i>Repositório criado para versionamento e documentação do projeto de Experiência Criativa.</i></p>
+O Uni2Go é um aplicativo que surgiu em resposta a um problema comum em restaurantes universitários: as filas intermináveis. Muitos estudantes enfrentam longas esperas para comprar sua refeição, o que pode ser especialmente frustrante quando se tem pouco tempo entre as aulas.
 
-Para finalizar o nosso README podemos adicionar estatísticas sobre o repositório como Linguagem mais utilizada, Número de linguagens presentes, qualidade do código e muitas outras através da ferramenta oferecida pela Codacy. Não abordaremos aqui como cadastrar seu repositório e ter acesso a estas estatísticas já que no site deles já tem uma documentação completa sobre isto. Veja como fica:
 
 
 ##  Sobre o projeto
@@ -12,8 +12,8 @@ O projeto foi criado para a disciplina de Experiência Criativa: Projetando Sist
 
 ### Tecnologias usadas 
 <p display="inline-block">
-  <img width="48" src="" alt="csharp-logo"/>
-  <img width="48" src="" alt="blazor-logo"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin-logo"/>
 </p>
                                                                                                   
 ### Ferramentas de desenvolvimento
@@ -25,7 +25,13 @@ O projeto foi criado para a disciplina de Experiência Criativa: Projetando Sist
 
 
 
-## References
+## Links 
+[PUC-PR](https://www.pucpr.br/)
+
+[Documentação do Projeto - Google Docs](https://docs.google.com/document/d/1QQRAMXgfqgR3PzJbQc9Z-iUcWaEgwTYXWwY6mgMdw_Q/edit?usp=sharing)
+
+[Documentação Wiki - GitHub)[]
+
 [About issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 
 [About wikis - GitHub Docs](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
